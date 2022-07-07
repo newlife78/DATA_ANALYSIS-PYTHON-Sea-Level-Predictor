@@ -35,8 +35,8 @@ Install the following packages:
 
 
 Program Description:
-Visualize and analyse data from a CSV file, containing the global average sea level change since 1880,
-using Pandas and Matplotlib, and returns a prediction about the sea level change through year 2050.
+Visualize and analyse data of the global average sea level change since 1880 until 2013, and returns a
+prediction about the sea level change through year 2050, using Pandas and Matplotlib.
 
 This program creates a scatter plot that will predict how much the sea level will rise on the year 2050.
 
